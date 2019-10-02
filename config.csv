@@ -1,0 +1,25 @@
+Number of Dimensions:,3,,
+Mu Constant:,1e-07,,
+,,,
+Print Position:,0,,
+Progress Bar Length:,45,,
+Progress Check Interval:,500,,
+,,,
+Reduce:,0.5,,
+Number of LODs:,1,,
+LOD Radius:,0.01,,
+,,,
+Magnetic Moment:,8e-08,0.0,0.0
+Magnet Dimensions:,5e-06,1e-06,2e-08
+Dipole Points:,1,1,1
+,,,
+Magnet Grid Max:,5e-05,5e-05,0.0
+Magnet Grid Min:,-5e-05,-5e-05,0.0
+Magnet Grid Points:,10,10,1
+,,,
+Coordinate Grid Max:,9e-05,9e-05,1e-06
+Coordinate Grid Min:,-9e-05,-9e-05,-1e-06
+Coordinate Grid Points:,10,10,10
+,,,
+Mean:,0.0,0.0,0.001
+Standard Deviation:,0.00016,0.00016,1e-05
